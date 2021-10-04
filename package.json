@@ -1,0 +1,20 @@
+{
+  "name": "serverlessCiCiTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADavies88/serverlessCiCdTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADavies88/serverlessCiCdTest/issues"
+  },
+  "homepage": "https://github.com/ADavies88/serverlessCiCdTest#readme"
+}
